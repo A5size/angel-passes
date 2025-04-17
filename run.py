@@ -173,9 +173,7 @@ def main():
     axs[1].legend()
 
     plt.tight_layout()
-    #plt.show()
-
-    plt.savefig("./fig/simulation_theta_0800.png")
+    plt.show()
 
 if __name__ == "__main__":
     main()
