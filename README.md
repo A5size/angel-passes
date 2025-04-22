@@ -17,8 +17,8 @@ By modeling agents with binary speaking states and mutual interactions, the simu
 ## 🧠 Paper Information
 
 - **Title**: A Model of Silence, or the Probability of *Un Ange Passe*
-- **Date**: April 12, 2025
-- **arXiv**: 
+- **Date**: April 25, 2025
+- **arXiv**: [https://arxiv.org/abs/2504.13931](https://arxiv.org/abs/2504.13931)
 
 ---
 
